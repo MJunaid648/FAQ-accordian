@@ -4,7 +4,7 @@ This project is a showcase of my skills in HTML, CSS, and JavaScript DOM manipul
 
 ## Live Demo
 
-You can see the live demo of this project at [xyz.com](https://www.xyz.com).
+You can see the live demo of this project at [this link](https://mjunaid648.github.io/FAQ-accordian/).
 
 ## Features
 
